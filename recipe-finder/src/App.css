@@ -1,0 +1,25 @@
+.app-container {
+  background-image: url('./images/pngtree-korean-food-traditional-background-picture-image_1452792.jpg');
+  background-size: cover;
+  background-position: center;
+  min-height: 100vh;  
+}
+
+.recipe-container {
+  height: 50vh;
+}
+
+.recipe-item {
+  display: flex;
+  align-items: center;
+  margin-bottom: 20px;
+}
+
+.recipe-details {
+  margin-left: 20px;
+}
+
+
+
+
+ 
